@@ -3,5 +3,5 @@
 ## 学习总结
 
 ## 作业
-(26. 删除排序数组中的重复项)[https://github.com/liruizhe1995/algorithm009-class02/blob/master/Week_01/26.java]
+[26. 删除排序数组中的重复项](https://github.com/liruizhe1995/algorithm009-class02/blob/master/Week_01/26.java)
 
