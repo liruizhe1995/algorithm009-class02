@@ -13,4 +13,6 @@
 
 [1. 两数之和](https://github.com/liruizhe1995/algorithm009-class02/blob/master/Week_01/1.java)
 
-[283.移动零](https://github.com/liruizhe1995/algorithm009-class02/blob/master/Week_01/283.java)
+[283. 移动零](https://github.com/liruizhe1995/algorithm009-class02/blob/master/Week_01/283.java)
+
+[66. 加一](https://github.com/liruizhe1995/algorithm009-class02/blob/master/Week_01/66.java)
