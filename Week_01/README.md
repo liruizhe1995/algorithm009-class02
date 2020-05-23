@@ -2,6 +2,25 @@
 
 ## 学习总结
 
+1. 改写Deque
+
+```java
+Deque<String> deque = new LinkedList<String>();
+
+deque.addFirst("a");
+deque.addFirst("b");
+deque.addFirst("c");
+
+String str = deque.peekFirst();
+System.out.println(str);
+System.out.println(deque);
+
+while(deque.size() > 0) {
+  System.out.println(deque.removeFirst());
+}
+System.out.println(deque);
+```
+
 ## 作业
 [26. 删除排序数组中的重复项](https://github.com/liruizhe1995/algorithm009-class02/blob/master/Week_01/26.java)
 
